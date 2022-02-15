@@ -1,0 +1,44 @@
+label{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    color: chocolate;
+    font-weight: bold;
+}
+h1{
+    font-family: 'Cinzel', serif;
+    color:darkblue;
+    text-shadow: 5px 5px 5px palevioletred;
+}
+
+#aliens{
+    padding-top: 50px;
+
+}
+
+#start_button{
+    border-radius: 30px;
+    border-color: blueviolet;
+    border-width: 2px;
+    font-weight: bold;
+    width: 100px;
+}
+
+h2{
+    color:darkorange;
+    background-color: black;
+    width: 60%;
+    border-radius: 60px;
+}
+
+h3{
+    color:crimson;
+    background-color:darkblue;
+    width: 60%;
+    border-radius: 60px;
+}
+
+h4{
+    font-family: 'Cookie';
+    font-size: 25px;
+    text-shadow: 5px 5px 5px grey;
+    font-weight: bold;
+}
